@@ -1,7 +1,5 @@
 # Star-Fit
 
-# Star Fit
-
 Sistema web para gerenciamento e acompanhamento de atletas, professores, nutricionistas e instituições esportivas.
 
 O objetivo do projeto é centralizar informações relacionadas a treinos, avaliações físicas, metas e desempenho em uma única plataforma, promovendo uma gestão mais eficiente e acessível.
